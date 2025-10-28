@@ -4,11 +4,11 @@ This repository collects all the **R scripts**, **data workflows**, and **docume
 
 Each folder corresponds to one of the main thesis chapters:
 
-- **Chapter 1 – [An Age–Period–Cohort Model for the Gender Gap in Youth and Early Adult Mortality]**
+- **Chapter 3 – [An Age–Period–Cohort Model for the Gender Gap in Youth and Early Adult Mortality]**
  
-- **Chapter 2 – [Age–Period Modeling of Mortality Gaps: The Cases of Cancer and Circulatory Diseases]**  
+- **Chapter 4 – [Age–Period Modeling of Mortality Gaps: The Cases of Cancer and Circulatory Diseases]**  
 
--  **Chapter 3 – [The Decline of ‘Deaths of Despair’ in Italy: Unveiling this Phenomenon in a New Context]**
+- **Chapter 5 – [The Decline of ‘Deaths of Despair’ in Italy: Unveiling this Phenomenon in a New Context]**
   
 
 ---
